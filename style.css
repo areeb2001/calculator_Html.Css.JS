@@ -1,0 +1,52 @@
+.main
+{
+    border: 2px solid black;
+    width: 400px;
+    margin: 0 auto;
+    background-color: lightseagreen;
+    margin-top: 150px;
+}
+.result
+{
+    width: 97%;
+    background-color: gray;
+    color: white;
+    height: 100px;
+    font-size: 30px;
+}
+.clearbtn
+{
+    width: 98%;
+    margin-top: 10px;
+    background-color: lightblue;
+    height: 30px;
+    font-weight: bolder;
+    font-size: 25px;
+}.btn
+{
+    background-color: lightblue;
+    width: 20%;
+   margin: 8px;
+   height: 30px;
+   font-weight: bolder;
+   font-size: 25px;  
+}
+.halfbtn
+{
+    width: 20%;
+    background-color: lightblue;
+    height: 30px;
+    margin: 16px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+body
+{
+    background-image: url("https://image.shutterstock.com/image-photo/business-abstract-background-260nw-244721185.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
